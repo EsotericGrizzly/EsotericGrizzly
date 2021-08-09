@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EsotericGrizzly
+- 👀 I’m interested in cutting edge design and frontend technologies.
+- 🌱 I’m currently learning React development
+- 💞️ I’m looking to collaborate on visual experiences
+- 📫 Contact me on michael.neumannn@gmail.com
